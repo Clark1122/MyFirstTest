@@ -18,5 +18,6 @@ public class TestScript : MonoBehaviour {
 		GUI.Button(new Rect(Screen.width * 0.35f, Screen.height * 0.45f, Screen.width * 0.3f, Screen.height * 0.1f), "Test Script");
 		GUI.Button(new Rect(Screen.width * 0.35f, Screen.height * 0.45f, Screen.width * 0.3f, Screen.height * 0.1f), "Test Script");
 		GUI.Button(new Rect(Screen.width * 0.35f, Screen.height * 0.45f, Screen.width * 0.3f, Screen.height * 0.1f), "Test Script");
+		GUI.Button(new Rect(Screen.width * 0.35f, Screen.height * 0.45f, Screen.width * 0.3f, Screen.height * 0.1f), "Test Script");
 	}
 }
